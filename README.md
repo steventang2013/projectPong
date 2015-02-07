@@ -1,5 +1,5 @@
 # ProjectPong
-Steven Tang
+## Steven Tang
 
 Pong game using SFML Api.
 SFML is a simple interface used for multimedia and game development.
